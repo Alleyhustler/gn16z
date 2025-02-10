@@ -1,0 +1,7 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+22:02:16	1221/1221	---MCZ	200	added ('OK')	text/html	etag:W/%22099bc7a6506f41a9d24df27735eae119%22	https://www.py16z.com/index.html	C:/Users/Pakyngl/Downloads/framer/a16/www.py16z.com/index.html	(from )
+22:02:16	1492/1492	---MCZ	404	error ('Not%20Found')	text/html	date:Wed,%2029%20Jan%202025%2021:02:16%20GMT	https://www.py16z.com/robots.txt		(from )
+22:02:17	8765/8765	---MCZ	200	added ('OK')	text/css	etag:W/%2286a1b8f3db80489ccb745b55f38a9a54%22	https://www.py16z.com/styles.css	C:/Users/Pakyngl/Downloads/framer/a16/www.py16z.com/styles.css	(from https://www.py16z.com/index.html)
+22:02:17	32984/32984	---M--	200	added ('OK')	image/jpeg	etag:%22f35aa0f5829c533953ff60db2029e3a1%22	https://www.py16z.com/py16z.jpg	C:/Users/Pakyngl/Downloads/framer/a16/www.py16z.com/py16z.jpg	(from https://www.py16z.com/index.html)
+22:02:17	2382/2382	---MCZ	200	added ('OK')	text/html	etag:W/%22ef111e57ee09173283a339b522033307%22	https://www.py16z.com/agent.html	C:/Users/Pakyngl/Downloads/framer/a16/www.py16z.com/agent.html	(from https://www.py16z.com/index.html)
+22:02:18	5644/5644	---MCZ	200	added ('OK')	application/javascript	etag:W/%22b3941884c47c85f8f1b2bc9847263a1f%22	https://www.py16z.com/chatbot.js	C:/Users/Pakyngl/Downloads/framer/a16/www.py16z.com/chatbot.js	(from https://www.py16z.com/agent.html)
