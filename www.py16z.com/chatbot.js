@@ -1,4 +1,4 @@
-const OPENAI_API_KEY = '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';
+const OPENAI_API_KEY = ';
 
 class ChatBot {
     constructor() {
